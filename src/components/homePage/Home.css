@@ -1,0 +1,20 @@
+.post_card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+/* .post_card:hover{
+  transform: scale(.8);
+} */
+
+.link{
+  text-decoration: none;
+  border: 1px solid rgb(241, 190, 94);
+  border-radius: 5px;
+  background-color: rgb(241, 190, 94) ;
+  padding: 3px;
+  color: rgba(109, 23, 23, 0.89);
+}
+.kj{
+  color: rgb(247, 245, 244);
+}

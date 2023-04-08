@@ -1,0 +1,31 @@
+h4{
+    text-align: center;
+    color: brown;
+}
+.add_container{
+    display: flex;
+    justify-content: center;
+}
+.add_form{
+    padding: 20px;
+    width: 800px;
+}
+.post_image{
+    width: 750px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.add_form Button{
+    float: right;
+    border: 1px solid rgb(241, 190, 94);
+    border-radius: 5px;
+    background-color: rgb(241, 190, 94) ;
+    color: rgba(109, 23, 23, 0.89);
+    font-weight: bold;
+}
+.add_form Button:hover{
+    background-color: rgb(241, 190, 94) ;
+    color: rgba(109, 23, 23, 0.89);
+}

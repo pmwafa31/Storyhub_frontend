@@ -1,0 +1,64 @@
+.navbar{
+    background-color:rgb(241, 190, 94);
+}
+.drop_link{
+    text-decoration: none;
+    color: #cf8562;
+    font-weight: bold;
+}
+.drop_link:hover{
+    color: #cf8562;
+}
+.drop_btn{
+    border: none;
+    background-color: white;
+    color: #cf8562;
+    font-weight: bold;
+}
+.drop_btn:hover{
+    background-color: rgb(238, 235, 235);
+}
+
+.name{
+    font-weight: bold;
+}
+.title{
+    margin-left: 50px;
+    font-size: 25px; 
+     font-weight: bold; 
+     color: white;
+     font-family: cursive;
+}
+.drop{
+    position: absolute;
+}
+.search{
+ width: 300px;
+}
+.search_input{
+    width: 100%;
+}
+.search_list{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+    padding: 5px;
+
+}
+.links{
+    text-decoration: none;
+    color: #cf8562;
+    padding: 5px;
+}
+.links:hover{
+    color:#cf8562;
+    background-color: rgb(250, 245, 245);
+}
+
+.frd_modal{
+    cursor: pointer;
+}
+.frd_modal:hover{
+    background-color: rgb(247, 247, 247);
+}

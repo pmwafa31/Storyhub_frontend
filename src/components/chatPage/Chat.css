@@ -1,0 +1,55 @@
+.chat_user{
+    background-color: rgb(236, 225, 225);
+    padding: 7px;
+    border-radius: 10px;
+    margin: 0;
+}
+.user_name{
+    font-size: 20px;
+    color: white;
+}
+.user_img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+/* .message_cardbody{
+    height: 100%;
+} */
+
+.chatBoxTop {
+    height: 360px;
+    overflow-y: scroll;
+    padding-right: 10px;
+  }
+
+.chatBoxBottom {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .chatBoxBottom Form{
+    width: 100%;
+  }
+
+  .chatMessageInput {
+    width: 80%;
+    height: 50px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  .chatSubmitButton {
+    margin-left: 10px;
+    width: 70px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(233, 187, 101);
+    color: white;
+    font-size: 15px;
+  }

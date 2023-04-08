@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #cf8562;
+}
+
+.navlink{
+    color: white;
+}
+.navlink:hover{
+    color: white;
+    font-size: 18px;
+}
+
+.jdksa{
+    color: rgb(236, 233, 228);
+}

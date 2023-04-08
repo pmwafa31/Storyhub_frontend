@@ -1,0 +1,11 @@
+.edit_btn{
+    border: 1px solid rgb(241, 190, 94);
+    border-radius: 5px;
+    background-color: rgb(241, 190, 94) ;
+    color: rgba(109, 23, 23, 0.89);
+    font-weight: bold;
+}
+.edit_btn:hover{
+    background-color: rgb(241, 190, 94) ;
+    color: rgba(109, 23, 23, 0.89);
+}

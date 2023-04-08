@@ -1,0 +1,23 @@
+.profilecard{
+    height: 22rem;
+    border: none;
+    border-radius: 10px;
+}
+.coverphoto{
+    height: 140px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.profilephoto{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+    position: absolute;
+    top: 3rem;
+    left: 90px;
+    border-radius: 50%;
+}
+
+.l{
+    color: rgb(241, 128, 93);
+}

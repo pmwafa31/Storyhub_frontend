@@ -1,0 +1,50 @@
+.headCol{
+    color: rgb(241, 190, 94);
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.loginCol{
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+@media only screen and (max-width: 768px){
+    .headCol{
+        margin-top: 60px;
+        margin-left: 0;
+        text-align: center;
+        padding: 2px;
+    }
+    .loginCol{
+        margin-left: 0;
+        text-align: center;
+        margin-top: 40px;
+        padding: 2px;
+    }
+}
+h3{
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+p{
+    font-size: 25px;
+}
+
+.loginCard{
+    width: 400px;
+    height: 320px;
+    border-radius: 10px;
+    border-width: 2cap;
+    box-shadow: 5px 5px 5px;
+}
+
+.img{
+    opacity: 0.7;
+    width: 100%;
+    height: 100%;
+}
+
+.d{
+    color: #752c0a;
+}

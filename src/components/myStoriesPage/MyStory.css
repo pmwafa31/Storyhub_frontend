@@ -1,0 +1,32 @@
+
+.mypost_card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+/* .mypost_card:hover{
+    transform: scale(.8);
+} */
+/* .post_link{
+    text-decoration: none;
+    border: 1px solid rgb(241, 190, 94);
+    border-radius: 5px;
+    background-color: rgb(241, 190, 94) ;
+    color: rgba(109, 23, 23, 0.89);
+    padding: 3px 4px;
+} */
+.post_btn{
+    border: 1px solid rgb(241, 190, 94);
+    border-radius: 5px;
+    background-color: rgb(241, 190, 94) ;
+    color: rgba(109, 23, 23, 0.89);
+    /* padding: 3px 4px; */
+}
+/* .post_links:hover{
+    background-color: white;
+    color: black;
+} */
+
+.link_div{
+    display: flex;
+    justify-content: space-between;
+}

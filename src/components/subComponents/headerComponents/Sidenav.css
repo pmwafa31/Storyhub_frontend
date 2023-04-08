@@ -1,0 +1,29 @@
+/* .profile{
+    text-align: center;
+    background-image: url('../../../images/back.avif');
+    background-size: cover;
+    opacity: 0.9;
+    height: 350px;
+    color: white;
+}
+.profile p{
+
+}
+.profilephoto{
+    margin-top: 50px;
+    width: 120px;
+    height: 120px;  
+}
+.actions{
+    background-color: black;
+    color: white;
+    border-top: 1px solid rgb(131, 129, 129);
+    border-bottom: 1px solid rgb(131, 129, 129);
+
+}
+
+@media screen and (max-width: 600px){
+    .profile{
+        background-position: center;
+    }
+} */
